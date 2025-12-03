@@ -6,7 +6,8 @@
   <img src="https://komarev.com/ghpvc/?username=Arne-Bogaert&color=red" alt="Arne's Profile Views" />
 </div>
 
-<div align="center">
-   Hi, I'm Arne Bogaert
-   🤖 AI & Data Engineer
-</div>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Arne+Bogaert!;" />
+</h1>
+
+### I am a passionate AI & Data Engineer who is currently studying at HOGent
