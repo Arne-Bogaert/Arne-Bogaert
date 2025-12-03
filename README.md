@@ -8,7 +8,7 @@
 
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+  <img src="https://github.com/Arne-Bogaert" alt="Visitor's Count" />
 </div>
 
 I'm an AI and Data Engineer from Belgium, i am currently studying at HOGent
