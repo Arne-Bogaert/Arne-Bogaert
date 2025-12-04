@@ -43,7 +43,7 @@
 
 <hr>
 
-## 🐍 My Contributions (GitHub Snake)
+## 🐍 My Contributions
 
 <div align="center">
   <picture>
@@ -54,7 +54,3 @@
 </div>
 
 <hr>
-
-## 📕 Latest Blog Posts
-
-<br>
