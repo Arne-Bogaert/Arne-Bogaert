@@ -32,14 +32,6 @@
 
 <hr>
 
-## ⚡️ Stats
-
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Arne-Bogaert&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Arne-Bogaert's GitHub Streak" />
-</div>
-
-<hr>
-
 ## 🐍 My Contributions
 
 <div align="center">
