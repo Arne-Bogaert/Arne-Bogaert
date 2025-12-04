@@ -6,14 +6,13 @@
 <div align="center">
   <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Arne+Bogaert!;" alt="Hi There! I'm Arne Bogaert!" />
-  </h1>
-   I am currently a student of applied computer science at HoGent
 </div>
 
 <br>
 
 <br>
 
+## Contact me
 <div align="center">
   <a href="mailto:arnebogaert81@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
