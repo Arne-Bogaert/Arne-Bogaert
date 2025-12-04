@@ -35,9 +35,7 @@
 ## ⚡️ Stats
 
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Arne-Bogaert&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Arne-Bogaert's GitHub Stats" />
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Arne-Bogaert&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Arne-Bogaert's GitHub Streak" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Arne-Bogaert&theme=transparent&layout=donut&hide=css,html&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Arne-Bogaert's Most Used Languages" />
 </div>
 
 <hr>
